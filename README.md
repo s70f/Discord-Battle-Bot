@@ -1,5 +1,5 @@
-# About The Project (BETA)
-(name) is a Discord Bot developed with Discord.py, it has fun games and commands that will lighten up your server.
+# About The Project
+The Discord Battle Bot is a Discord Bot developed with Discord.py, it includes a battle system where players can battle each other with different attacks, army combinations, and special abilities.
 
 ## Setup and Installation
 
